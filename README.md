@@ -13,7 +13,7 @@ Phase One focuses on **core consultations, scheduling, payments, and real‑time
 Regions supported architecturally from day one (feature‑flagged):
 
 * Pakistan (primary)
-* Middle East (UAE, Qatar – future)
+* Middle East (UAE, Qatar, Saudi – primary)
 
 ---
 
